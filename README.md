@@ -1,7 +1,7 @@
 # app-dev
 My first repository 
 
-# Wednessday
+# Wednesday
 - Horror
 - Fantasy
 - Comedy
